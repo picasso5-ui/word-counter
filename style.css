@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right,green,blue);;
+    text-align: center;
+    margin: 120px auto;
+    font-family: monospace;
+    font-size: 1.5rem;
+    color: white;
+}
+
+
+   
+
+textarea{
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: black;
+    font-family: monospace;
+    font-weight: bold;
+    font-weight:1rem;
+    padding: 30px;
+    overflow-x: hidden;
+}
